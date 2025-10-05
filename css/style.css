@@ -166,6 +166,7 @@ ul,ol {
 }
 .page-team {
     background: #f4f4fd;
+    padding: 120px 0;
 
 }
 .team-list{
@@ -180,6 +181,7 @@ ul,ol {
      text-align: center;
      text-transform: capitalize;
      color: #2e2f42;
+     margin-bottom: 72px;
 
 }
 .team-title{
@@ -306,4 +308,9 @@ img{
 
 .page-info{
     padding: 120px 0;
+}
+
+.page-portfolio{
+ padding-top: 120px;
+ padding-bottom: 120px;
 }

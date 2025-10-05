@@ -273,7 +273,7 @@ ul,ol {
     color:#4d5ae5 ;
     margin-right: 76px;
     display: inline-block;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
 }
 .logo-footer-part{
     color: #f4f4fd;
@@ -286,7 +286,7 @@ ul,ol {
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
-    margin-top: 16px;
+  /*   margin-top: 16px; */
 }
 a{
     text-decoration: none;
